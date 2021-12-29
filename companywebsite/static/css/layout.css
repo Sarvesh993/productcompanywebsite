@@ -21,7 +21,7 @@ body {
   height: 250px;
   text-align: center;
   font-size: 60px;
-  background-image: url("/static/img/banner1.jpg");
+  background-image: "	https://i.pinimg.com/originals/39/7a/5c/397a5cb38259951ab109d14f789b7ccf.jpg";
   background-size: 100% 100%;
   margin: 0px 0px 0px 0px;
   padding-top: 150px;
@@ -60,7 +60,7 @@ body {
 .content {
   display: block;
   width: 100%;
-  background-color: #cffffd;
+  background-image: ("https://i.pinimg.com/originals/39/7a/5c/397a5cb38259951ab109d14f789b7ccf.jpg") ;
   min-height: 500px;
   margin: 0px 0px 0px 0px;
   border-width: 1px;
